@@ -1,0 +1,7 @@
+Skyler Coleman spc69655@uga.edu 811307452
+
+    To compile my project : javac SortDriver.java
+    To run my code with an input file: java SortDriver fileName.txt
+    To run my code with no input file and a a user spcecified length of data to test: java SortDriver
+
+    Additionally, I did cite a good bit of of my code and algorithm's logic from Mr.Meena's slides as it was stated ok to do so in the project guidelines.
